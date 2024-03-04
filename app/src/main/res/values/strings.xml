@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="name">Portfolio</string>
+    <string name="yello_star">Yellow Star</string>
+    <string name="bio">
+    Hello There!, I\'m Subramaninan (An Aspiring Software Developer). Eager to contribute my well-rounded skill set, technical prowess, and leadership qualities to dynamic and innovative projects. Lets connect!
+</string>
+    <string name="Connect">Reach Out Here!!</string>
+    <string name="project_title">Projects</string>
+    <string name="project_1">Snake Gaming Application Using JAVA Swing Components</string>
+    <string name="project_1_desc"> This is a simple Snake gaming application developed in Java using Swing components. The application utilizes JFrame and JPanel to create a graphical user interface (GUI) with a game board of size 600x600 pixels. Players can control the movement of the snake using keyboard inputs.
+        \n<b>Features: </b>
+        \n ->Graphical User Interface: The game utilizes Java Swing components to create an interactive GUI.
+        \n ->Snake Movement: Players can control the movement of the snake using keyboard inputs.
+        \n ->Scoring System: Keep track of the player\'s score as they eat food and grow longer.
+        \n ->Game Over: The game ends when the snake collides with the wall or its own body. The final score is displayed, and players can choose to play again.</string>
+    <string name="project_2">Real-Time Cricket Score-Card Console Application</string>
+    <string name="project_2_desc"> This Java console application provides a dynamic and real-time display of cricket match scores. It adopts the MVVM architecture and leverages MySQL as a reliable database for seamless data storage and retrieval.
+        \n<b>Features: </b>
+      \nReal-Time Score Updates:
+        \n ->Users can input the outcome of each ball, choosing from options like 0-4, 6, Wicket (W), Wide (WD), or No Ball (NB).
+        \n ->The application updates the scorecard instantly, offering a real-time view of the ongoing match.
+      \nComprehensive Player Statistics:
+            \n ->Individual batsmen scores are automatically managed and displayed, allowing users to track player performance throughout the match.
+      \nOvers and Batsmen Changes:
+            \n ->Changes in overs between batsmen are tracked seamlessly, providing a comprehensive overview of the game\'s progress.
+            \n ->The application also updates the next batsman in the lineup based on the match events.
+      \nInnings Changes Handling:
+            \n ->Events like innings changes are efficiently handled, ensuring the scorecard accurately represents the current state of the match.</string>
+    <string name="git_explore">Explore!!</string>
+    <string name="role">Software Developer</string>
+    <string name="text_name">Subramanian S</string>
+    <string name="contact">About Me</string>
+    <string name="avatarimage">avatarImage</string>
+</resources>

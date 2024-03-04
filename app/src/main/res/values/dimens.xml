@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="padding">1dp</dimen>
+    <dimen name="button">12dp</dimen>
+    <dimen name="padding_text">12dp</dimen>
+    <dimen name="image_margin">5dp</dimen>
+</resources>
